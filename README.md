@@ -2,7 +2,7 @@
 
 ## ToDo Application server 요구사항
 ###
-|method|endpoint|기능|request|response|
+| method | endpoint | 기능 | request | response |
 
 |---|---|---|---|---|
 
