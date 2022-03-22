@@ -2,15 +2,8 @@
 
 ## ToDo Application server 요구사항
 ###
-| method | endpoint | 기능 | request | response |
-
-|---|---|---|---|---|
-
-|POST|/|todo 아이템 추가|{"title": "자료구조 공부하기"}|{
-"id": 17,
-"title": "자료구조 공부하기",
-"order": 0,
-"completed": false,
-"url": "http://localhost:8080/17"
-}
-|
+|제목 셀1|제목 셀2|제목 셀3|제목 셀4|
+|---|---|---|---|
+|내용 1|내용 2|내용 3|내용 4|
+|내용 5|내용 6|내용 7|내용 8|
+|내용 9|내용 10|내용 11|내용 12|
